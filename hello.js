@@ -1,2 +1,1 @@
-hello
-yes
+console.log("Hello Git");
