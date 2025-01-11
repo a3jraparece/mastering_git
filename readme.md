@@ -1,4 +1,5 @@
-Hello Git Im Alex
+Hello Git From Alex
 Im adding this from feature `feature-branch`
 
-Im Not Pro
+Im not good at learning
+    
